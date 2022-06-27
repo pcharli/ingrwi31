@@ -13,3 +13,11 @@ body {
     min-width: 20%;
     padding: 1rem;
 }
+.navigation ul {
+    display: flex;
+    flex: 1
+}
+.navigation li {
+    width: 200px;
+    list-style: none;
+}
