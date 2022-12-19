@@ -1,2 +1,3 @@
 # WI31
-[info](/.doc/info.md)
+- [Utiliser l'api](/.doc/api.md)
+- [Utiliser l'application](/.doc/app.md)
