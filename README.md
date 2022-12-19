@@ -1,2 +1,2 @@
 # WI31
-(info)[/.github/info.md]
+[info](/.github/info.md)
